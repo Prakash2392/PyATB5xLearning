@@ -11,5 +11,5 @@ num2 = int(input("Add 2nd value"))
 
 quotient = num1 // num2
 remainder = num1 % num2
-print("Quotient value is:", quotient)
-print("Remainder value is:", remainder)
+print(f"Quotient value is:", quotient)
+print(f"Remainder value is:", remainder)
