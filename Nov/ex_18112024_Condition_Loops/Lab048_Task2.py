@@ -3,7 +3,7 @@
 # equilateral (all sides are equal), isosceles (exactly two sides are equal),
 # or scalene (no sides are equal). Use an if-else statement to classify the triangle.
 
-s1, s2, s3 = 10, 20, 60
+s1, s2, s3 = 60, 30, 60
 
 if s1 == s2 == s3:
     print("It's a equilateral Triangle")
